@@ -9,5 +9,6 @@ public class HelloWorld {
 		System.out.println("And you suck even more!");
 		//asd
 		//ta ty riadne supacis 
+		//testovanie pushu
 	}
 }

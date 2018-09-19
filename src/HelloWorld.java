@@ -10,5 +10,8 @@ public class HelloWorld {
 		//asd
 		//ta ty riadne supacis 
 		//testovanie pushu
+		
+		
+		//rip testovanie projektu
 	}
 }

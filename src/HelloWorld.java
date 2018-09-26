@@ -9,11 +9,7 @@ public class HelloWorld {
 		System.out.println("And you suck even more!");
 
 		System.out.println("toto je spravny kod!");
-	
-	//asd
-		//ta ty riadne supacis 
-		//testovanie pushu
+	//zmena v master vetve
 		
-	
 	}
 }

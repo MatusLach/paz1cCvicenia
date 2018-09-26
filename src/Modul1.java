@@ -1,8 +1,11 @@
 
 public class Modul1 {
 
-	int main()
+	public void main()
 	{
-		return 0;
+		while(true) {
+			System.out.println("we never stop, we never quit");
+		}
+		//return 0;
 	}
 }
